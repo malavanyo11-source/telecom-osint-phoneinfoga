@@ -1,0 +1,1 @@
+This technical report documents the end-to-end deployment, API configuration, and evaluation of **PhoneInfoga (v2.11.0)** within a Kali Linux environment. PhoneInfoga is an open-source intelligence (OSINT) framework designed for international phone number parsing, carrier footprinting, and automated search-engine footprint generation.

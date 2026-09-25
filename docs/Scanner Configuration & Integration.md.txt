@@ -1,0 +1,14 @@
+External API Setup (Numverify)
+PhoneInfoga's carrier and line-type scanners rely on external services like APILayer's Numverify.
+
+Obtain an API token from Numverify.
+
+Export the token to the terminal environment or add it permanently to ~/.zshrc:
+
+echo 'export NUMVERIFY_API_KEY="<YOUR_NUMVERIFY_KEY>"' >> ~/.zshrc
+source ~/.zshrc
+
+Direct Validation Test
+Verify that the key is recognized and authorized before running scans:
+
+curl "[http://apilayer.net/api/validate?access_key=](http://apilayer.net/api/validate?access_key=)<YOUR_KEY>&number=<TARGET_NUMBER>"

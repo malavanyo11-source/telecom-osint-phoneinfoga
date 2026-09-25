@@ -1,0 +1,5 @@
+## Step 2.1: Automated Binary Retrieval
+Download the official pre-compiled Go binary directly using the project deployment script:
+```bash
+sudo apt update && sudo apt install -y curl tar
+bash <(curl -sSL [https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/support/scripts/install](https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/support/scripts/install))

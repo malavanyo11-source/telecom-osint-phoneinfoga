@@ -1,0 +1,3 @@
+CLI Execution
+Run an automated query using the E.164 international phone number format:
+phoneinfoga scan -n +233XXXXXXXXX

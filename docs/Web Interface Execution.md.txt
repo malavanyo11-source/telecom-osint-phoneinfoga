@@ -1,0 +1,4 @@
+Launch the built-in Vue.js REST dashboard for interactive visualization:
+phoneinfoga serve -p 8080
+
+Navigate to http://localhost:8080 in your web browser.

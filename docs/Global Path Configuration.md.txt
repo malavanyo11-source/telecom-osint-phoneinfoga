@@ -1,0 +1,4 @@
+Relocate the extracted executable to /usr/local/bin to make it accessible across all terminal sessions:
+sudo mv ./phoneinfoga /usr/local/bin/phoneinfoga
+phoneinfoga version
+

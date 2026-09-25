@@ -1,0 +1,4 @@
+Reconnaissance Vector	Data Point Returned	Analysis / Significance
+Parsing Engine	E.164, Country Code, Country Name	Confirms format validity and geographic telecommunication origin.
+Carrier Detection	MNO Name (e.g., Scancom plc / MTN)	Identifies whether the line is Mobile, Landline, or VoIP.
+Search Dorking Engine	site:facebook.com intext:"..."	Builds targeted Boolean queries to find exposed user listings and classifieds.
